@@ -20,4 +20,6 @@ int main() {
     printf("Limite ultrapassado: %.2f\n", excesso);
     printf("Valor da multa: %.2f\n", multa);
 
+    return 0;
+
 }
