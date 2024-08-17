@@ -13,4 +13,6 @@ int main() {
 
     printf("O valor final do carro é: %.4f", valor_final);
 
+    return 0;
+
 }
