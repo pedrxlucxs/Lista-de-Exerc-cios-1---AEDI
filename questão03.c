@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<math.h>
+#include <math.h>
 
 int main() {
     int num1, num2;
@@ -19,4 +19,6 @@ int main() {
     printf("A soma do triplo do primeiro número com a metade do segundo número é: %.2f\n", triple_double);
 
     printf("A raiz quadrada da soma do primeiro número com o segundo número é: %.2f\n", raiz);
+
+    return 0;
 }
